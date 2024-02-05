@@ -14,3 +14,8 @@ let myObj = {
 const myFunction = function(){
     console.log("hello");
 }
+
+// ++++++++++++++++++++++++++++++++++
+//stack (primitive), heap (non-primitive)
+
+ 
