@@ -23,3 +23,4 @@ const min = 10
 const max = 20
 //+1 is there so that we will not get the value as 0
 console.log(Math.floor(Math.random() * (max-min + 1)) + min)
+
